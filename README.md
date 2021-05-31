@@ -1,6 +1,6 @@
 # Counter App
 
-### A smal project to exercise the basics concepts of the DOM.
+### A smal project to exercise the basics concepts of the DOM envents.
 
 ---
 
