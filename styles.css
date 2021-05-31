@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #d7ebd5;
+}
+
+.container {
+  position: relative;
+  top: 200px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: auto;
+  height: auto;
+}
+
+.numbers {
+  height: 300px;
+  width: 300px;
+  background-image: linear-gradient(to bottom right, #56bd92, #fff5d7);
+  border-radius: 70px;
+  float: left;
+  margin: 0px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.mainNum {
+  font-family: "Kaushan Script", cursive;
+  color: #c26a72;
+  font-size: 150px;
+  text-align: center;
+}
+
+.resetButton {
+  position: absolute;
+  color: #8d7020;
+  bottom: -80px;
+}
+
+button {
+  width: 150px;
+  border-radius: 60px;
+  border-style: hidden;
+  background-image: linear-gradient(to bottom right, #97d37f, #0f8f53);
+  color: gainsboro;
+  outline: none;
+  box-shadow: 10px 10px 5px grey;
+}
