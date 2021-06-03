@@ -11,8 +11,7 @@ document.querySelector(".less").addEventListener("click", (event) => {
   document.querySelector(".mainNum").textContent = mainNum;
 });
 
-let resetButton = " ";
 document.querySelector(".reset").addEventListener("click", (event) => {
-  event.preventDefault();
-  document.querySelector(".numbers").textContent = resetButton;
+  mainNum = 0;
+  document.querySelector(".mainNum").textContent = mainNum;
 });

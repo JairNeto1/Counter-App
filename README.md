@@ -13,5 +13,5 @@
 - JavaScript
 
 <p align="center">
-<img src= "img/counterApp-cover.png" width=70%
+<img src= "img/CounterCover.gif" width=100%
 </p>

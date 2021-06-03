@@ -45,6 +45,18 @@ body {
   bottom: -80px;
 }
 
+.reset:hover {
+  background: #6b9756;
+}
+
+.less:hover {
+  background: #6b9756;
+}
+
+.more:hover {
+  background: #6b9756;
+}
+
 button {
   width: 150px;
   border-radius: 60px;
